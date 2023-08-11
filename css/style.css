@@ -1,0 +1,19 @@
+@font-face {
+    font-family:Poppins;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+header {
+  background-color:blueviolet;
+  color: white;
+font-size:30px;
+
+
+
+}
+body {
+    font-family:Poppins;
+}
+img {
+    height:auto;
+    width:500px;
+}
