@@ -1,33 +1,19 @@
-*{
-    margin:0;
-    padding:0;
-}
 @font-face {
     font-family:Poppins;
     src: url(../fonts/Poppins-Medium.ttf);
 }
-header{
+header {
   background-color:blueviolet;
   color: white;
 font-size:30px;
 
 
 
-
 }
 body {
     font-family:Poppins;
-
 }
 img {
     height:auto;
     width:500px;
-   
-}
-
-.margin {
-    margin:10px;
-}
-ul {
-    list-style-type: disc;
 }
